@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ArrayExample {
 	public static void main(String args[]) {
-		// Demo for for each and split function
+		// Demo for each and split function
 		int [] arr = {4, 5, 12, 25};
 		for(int x: arr) {
 			System.out.println(x);
